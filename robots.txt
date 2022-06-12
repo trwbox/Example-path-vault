@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.trwbox.com/Example-path-vault/sitemap.xml
